@@ -1,5 +1,4 @@
 # Nocte Electorum
-Night of the chosen ones
+Welcome👋!
 
----
-A private group of CS students creating fun/utility projects.
+This is a GitHub organization to hold all collaborative projects between our group of CS students/enthusiasts.
